@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive rating component
+# Frontend Mentor - Interactive Rating Component
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5 Markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
