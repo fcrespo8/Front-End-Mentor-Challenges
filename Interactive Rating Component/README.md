@@ -27,3 +27,4 @@ Users should be able to:
 - Website - Francisco Crespo Erramuspe
 - Linkedin - https://www.linkedin.com/in/crespo-francisco/
 - Frontend Mentor - [@fcrespo8](https://www.frontendmentor.io/profile/fcrespo8)
+Vito Lattanzio
